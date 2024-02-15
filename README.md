@@ -1,4 +1,4 @@
-#Premiers automate cellulaire
+# Premiers automate cellulaire
 
 Projet de 2021
 
